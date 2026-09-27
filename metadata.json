@@ -1,0 +1,6 @@
+{
+  "name": "حي على الفلاح",
+  "description": "منصة الصلاة والعبادة: مواقيت الصلاة، اتجاه القبلة، الأذكار، القرآن الكريم، والمسبحة الإلكترونية بتصميم إسلامي فاخر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
